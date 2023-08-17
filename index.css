@@ -1,0 +1,59 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    opacity: 87%;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+ .header{
+    position: fixed;
+    top: 0;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: 100;
+    background-color:rgba(90, 86, 86, 0.76) ;
+    color:azure;
+    width: 100%;
+    padding: 20;
+    margin: 0;
+   
+ }
+  .content {
+    position: fixed;
+    font-size: 35px;
+
+    
+    color: #0d0e24;
+    width: 100%;
+    padding: 20px;
+  }
+  
+ 
+  #myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+        border-radius: 35px;
+    background: #4e4d4d;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }
+  .myimg{
+    float: right;
+    height:475px;
+    width:500px;
+    padding: 80px;
+    border: 2px;
+    border-radius: 338px;
+  
+}
